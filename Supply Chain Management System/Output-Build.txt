@@ -1,0 +1,20 @@
+﻿------ Build started: Project: D:\...\OldColor\, Configuration: Debug Any CPU ------
+Validating Web Site
+Building directory '/OldColor/js/fancybox/'.
+Building directory '/OldColor/js/jquery-ui/development-bundle/external/'.
+Building directory '/OldColor/js/jquery-ui/development-bundle/ui/i18n/'.
+Building directory '/OldColor/js/jquery-ui/development-bundle/ui/minified/'.
+Building directory '/OldColor/js/jquery-ui/development-bundle/ui/'.
+Building directory '/OldColor/js/jquery-ui/development-bundle/'.
+Building directory '/OldColor/js/jquery-ui/js/'.
+Building directory '/OldColor/js/jwysiwyg/'.
+Building directory '/OldColor/js/visualize/'.
+Building directory '/OldColor/js/'.
+Building directory '/OldColor/resources/scripts/'.
+Building directory '/OldColor/Scripts/'.
+Building directory '/OldColor/'.
+
+D:\Running Project\Dorjibari\Running\OldColor(18-11-2017)\OldColor\frmBercode.aspx.cs(24,17): warning CS0414: The field 'frmBercode.dtlRecordNum' is assigned but its value is never used
+D:\Running Project\Dorjibari\Running\OldColor(18-11-2017)\OldColor\UserInfo.aspx.cs(92,26): warning CS0168: The variable 'ex' is declared but never used
+Validation Complete
+========== Build: 1 succeeded or up-to-date, 0 failed, 0 skipped ==========
